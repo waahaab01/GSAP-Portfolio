@@ -133,7 +133,7 @@ const Navbar = () => {
 
         <a
           ref={cvButtonRef}
-          href="/wahab-resume-updated.pdf"
+          href="/resume.pdf"
           download
           className="px-8 py-3 border-b-2 border-[#00FF7F] text-[#00FF7F] text-3xl tracking-wide rounded-md hover:bg-[#00FF7F] hover:text-black transition-all duration-300"
         >
